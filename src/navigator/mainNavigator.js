@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import SignUp13175210Navigator from '../features/SignUp13175210/navigator';
 import Feed4175209Navigator from '../features/Feed4175209/navigator';
-import BlankScreen1175208Navigator from '../features/BlankScreen1175208/navigator';
 import BlankScreen0175207Navigator from '../features/BlankScreen0175207/navigator';
 
 /**
@@ -19,7 +18,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 SignUp13175210: { screen: SignUp13175210Navigator },
 Feed4175209: { screen: Feed4175209Navigator },
-BlankScreen1175208: { screen: BlankScreen1175208Navigator },
 BlankScreen0175207: { screen: BlankScreen0175207Navigator },
 
     /** new navigators can be added here */
